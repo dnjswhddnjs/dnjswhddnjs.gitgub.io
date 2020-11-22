@@ -15,12 +15,8 @@ author: WonJongwon
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
   Github page:
-    - dnjswhddnjs : "https://github.com/dnjswhddnjs/dnjswhddnjs.gitgub.io"
-  
+    - dnjswhddnjs : "https://github.com/dnjswhddnjs/dnjswhddnjs.gitgub.io" 
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
