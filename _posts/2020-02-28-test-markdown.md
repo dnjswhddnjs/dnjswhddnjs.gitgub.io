@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: OSS실습 11주차 과제
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
@@ -16,12 +16,25 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 Here's a useless table:
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+##| Number | Next number | Previous number |
+##| :------ |:--- | :--- |
+##| Five | Six | Four |
+##| Ten | Eleven | Nine |
+##| Seven | Eight | Six |
+##| Two | Three | One |
+
+새로운 정적페이지 작성 및 개인화 (2점)
+정적페이지를 과제 목적에 맞게 선정하고 개인화 하여 구성
+팀 별 진행사항 정리 (1점)
+선정 프로젝트 분석 및 개선방향 (3점)
+선정한 프로젝트를 구체적으로 파악하고, 개선방향을 명확히 제시
+나의 개발 능력 및 역할분석 (2점)
+본인의 개발 및 프로젝트 수행 능력을 상세하게 분석 및 기술
+나의 개발 능력에 따른 개인별 기여 방안 및 계획 정리 (2점)
+개발 능력에 따른 프로젝트 기여 방식 및 계획을 주어진 기간에 맞추어 수립.
+
+
+
 
 
 How about a yummy crepe?
